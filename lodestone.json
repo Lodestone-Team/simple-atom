@@ -3,5 +3,6 @@
     "author" : "CheatCod3",
     "name" : "SimpleAtom",
     "description" : "A simple atom for demonstration purposes",
-    "version" : "1.0"
+    "version" : "1.0",
+    "source_url": "https://github.com/Lodestone-Team/simple-atom/tree/main"
 }
