@@ -1,5 +1,5 @@
 {
-    "type" : "Atom",
+    "kind" : "Atom",
     "author" : "CheatCod3",
     "name" : "SimpleAtom",
     "description" : "A simple atom for demonstration purposes",
