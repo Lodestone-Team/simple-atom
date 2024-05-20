@@ -1,0 +1,22 @@
+{
+    "setting_sections": {
+        "section_id1": {
+            "section_id": "section_id1",
+            "name": "section_name1",
+            "description": "section_description1",
+            "settings": {
+                "setting_id1": {
+                    "setting_id": "setting_id1",
+                    "name": "Port",
+                    "description": "Port to run the server on",
+                    "value": null,
+                    "value_type": { "type": "UnsignedInteger", "min": 0, "max": 65535 },
+                    "default_value": { "type": "UnsignedInteger", "value": 6969 },
+                    "is_secret": false,
+                    "is_required": true,
+                    "is_mutable": true
+                }
+            }
+        }
+    }
+}
